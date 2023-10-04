@@ -1,16 +1,14 @@
 **Привет!**
 
-Я Никита Слепов, тестировщик ПО (ручное и автотестирование).
+Я **Никита Слепов**, тестировщик ПО (ручное и автотестирование).
 
 ## Прошел обучение в Нетологии 
 [ДИПЛОМ тестировщика ПО](https://drive.google.com/file/d/1AtC_uLhtJXVxQE4IQsnH3lsE2PEKuQER/view?usp=sharing)  
 [Свидетельство о прохождении курсов тестировщика ПО](https://drive.google.com/file/d/1iAWYH6fx3ujnhQHjT6xiXIbM4Wr099RA/view?usp=sharing)
 >**Курсовая работа по ручному тестированию**  
-
 [Ссылка на работу](https://drive.google.com/drive/folders/1VcIZjkcXImTSUqkfMkXcH0M8l5sAmtoG?usp=sharing)
-
+  
 >**Дипломная работа**  
-
 [Ссылка на работу](https://github.com/Lambonik/Diploma)
 ### Освоенный материал  
 #### Ручное тестирование:  
