@@ -2,8 +2,7 @@
 
 Я **Никита Слепов**, тестировщик ПО (ручное и автотестирование).
 
-Прошел обучение в Нетологии
----------------
+### Прошел обучение в Нетологии
 [ДИПЛОМ тестировщика ПО](https://drive.google.com/file/d/1AtC_uLhtJXVxQE4IQsnH3lsE2PEKuQER/view?usp=sharing)  
 [Свидетельство о прохождении курсов тестировщика ПО](https://drive.google.com/file/d/1iAWYH6fx3ujnhQHjT6xiXIbM4Wr099RA/view?usp=sharing)
 
